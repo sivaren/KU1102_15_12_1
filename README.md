@@ -1,1 +1,1 @@
-# KU1102_15_12
+# Tugas Besar I KU1102 Pengenalan Komputasi
